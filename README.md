@@ -1,2 +1,3 @@
 # wpu-resolusi
-repository untuk menyimpan WPU kedepanya
+-membuat platfrom
+-membuat forum diskusi
