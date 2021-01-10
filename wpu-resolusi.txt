@@ -2,5 +2,5 @@ WPU RESOLUSI
 -Bisa membuat program github
 -Membuat forum untuk diskusi
 -membuat platfrom
--Membuat merchshop
 -kolaborasi dengan teman
+-Membuat project besar
